@@ -1,4 +1,4 @@
-_Only add necessary sections. Be concise. Lengthy descriptions should be added to the appropriate doc. Deelte italic sections_
+_Only add necessary sections. Be concise. Lengthy descriptions should be added to the appropriate doc. Delete italic sections_
 
 Description of Change
 ---  
